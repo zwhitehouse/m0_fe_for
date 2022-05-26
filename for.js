@@ -2,7 +2,7 @@
 // running `node <filepath>`. If you are in this directory, you'd run `node for.js`.
   
 // Challenge 1
-// Use a for statement to log to the console all odd numbers between 30 and 60.
+// Use a for statement to log to the console all even numbers between 25 and 75.
 
 
 
